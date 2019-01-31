@@ -1,0 +1,989 @@
+,index,name
+0,70,Châtelet
+1,73,Cité
+2,330,Saint-Michel
+3,222,Odéon
+4,323,Saint-Germain-des-Prés
+5,334,Saint-Sulpice
+6,333,Saint-Placide
+7,208,Montparnasse Bienvenue
+8,333,Saint-Placide
+9,208,Montparnasse Bienvenue
+10,361,Vavin
+11,208,Montparnasse Bienvenue
+12,207,Montparnasse Bienvenue
+13,209,Montparnasse Bienvenue
+14,101,Edgar Quinet
+15,293,Raspail
+16,101,Edgar Quinet
+17,209,Montparnasse Bienvenue
+18,232,Pasteur
+19,348,Sèvres Lecourbe
+20,45,Cambronne
+21,348,Sèvres Lecourbe
+22,45,Cambronne
+23,348,Sèvres Lecourbe
+24,232,Pasteur
+25,231,Pasteur
+26,231,Pasteur
+27,368,Volontaires
+28,360,Vaugirard
+29,80,Convention
+30,360,Vaugirard
+31,80,Convention
+32,274,Porte de Versailles
+33,81,Corentin Celton
+34,178,Mairie d'Issy
+35,81,Corentin Celton
+36,274,Porte de Versailles
+37,80,Convention
+38,360,Vaugirard
+39,80,Convention
+40,360,Vaugirard
+41,368,Volontaires
+42,231,Pasteur
+43,106,Falguière
+44,231,Pasteur
+45,106,Falguière
+46,206,Montparnasse Bienvenue
+47,207,Montparnasse Bienvenue
+48,206,Montparnasse Bienvenue
+49,106,Falguière
+50,206,Montparnasse Bienvenue
+51,207,Montparnasse Bienvenue
+52,113,Gaité
+53,113,Gaité
+54,234,Pernety
+55,113,Gaité
+56,234,Pernety
+57,249,Plaisance
+58,273,Porte de Vanves
+59,187,Malakoff-Plateau de Vanves
+60,188,Malakoff-Rue Étienne Dolet
+61,72,Châtillon-Montrouge
+62,188,Malakoff-Rue Étienne Dolet
+63,72,Châtillon-Montrouge
+64,188,Malakoff-Rue Étienne Dolet
+65,187,Malakoff-Plateau de Vanves
+66,273,Porte de Vanves
+67,249,Plaisance
+68,234,Pernety
+69,113,Gaité
+70,207,Montparnasse Bienvenue
+71,206,Montparnasse Bienvenue
+72,218,Notre-Dame-des-Champs
+73,294,Rennes
+74,347,Sèvres Babylone
+75,308,Rue du Bac
+76,347,Sèvres Babylone
+77,346,Sèvres Babylone
+78,174,Mabillon
+79,221,Odéon
+80,74,"Cluny, La Sorbonne"
+81,195,Maubert Mutualité
+82,47,Cardinal Lemoine
+83,195,Maubert Mutualité
+84,47,Cardinal Lemoine
+85,148,Jussieu
+86,117,Gare d'Austerlitz
+87,148,Jussieu
+88,47,Cardinal Lemoine
+89,195,Maubert Mutualité
+90,47,Cardinal Lemoine
+91,195,Maubert Mutualité
+92,47,Cardinal Lemoine
+93,195,Maubert Mutualité
+94,47,Cardinal Lemoine
+95,47,Cardinal Lemoine
+96,148,Jussieu
+97,117,Gare d'Austerlitz
+98,148,Jussieu
+99,47,Cardinal Lemoine
+100,195,Maubert Mutualité
+101,74,"Cluny, La Sorbonne"
+102,221,Odéon
+103,174,Mabillon
+104,346,Sèvres Babylone
+105,347,Sèvres Babylone
+106,308,Rue du Bac
+107,338,Solférino
+108,9,Assemblée Nationale
+109,338,Solférino
+110,308,Rue du Bac
+111,347,Sèvres Babylone
+112,346,Sèvres Babylone
+113,358,Vaneau
+114,346,Sèvres Babylone
+115,358,Vaneau
+116,99,Duroc
+117,100,Duroc
+118,321,Saint-Francois Xavier
+119,100,Duroc
+120,321,Saint-Francois Xavier
+121,359,Varenne
+122,137,Invalides
+123,51,"Champs Élysées, Clémenceau"
+124,202,Miromesnil
+125,203,Miromesnil
+126,317,Saint-Augustin
+127,133,Havre Caumartin
+128,317,Saint-Augustin
+129,203,Miromesnil
+130,332,Saint-Philippe du Roule
+131,110,Franklin D. Roosevelt
+132,2,Alma Marceau
+133,139,Iéna
+134,355,Trocadéro
+135,306,Rue de la Pompe
+136,157,La Muette
+137,306,Rue de la Pompe
+138,355,Trocadéro
+139,306,Rue de la Pompe
+140,157,La Muette
+141,291,Ranelagh
+142,141,Jasmin
+143,291,Ranelagh
+144,141,Jasmin
+145,197,Michel Ange Auteuil
+146,199,Michel Ange Molitor
+147,104,Exelmans
+148,271,Porte de Saint-Cloud
+149,104,Exelmans
+150,271,Porte de Saint-Cloud
+151,104,Exelmans
+152,271,Porte de Saint-Cloud
+153,193,Marcel Sembat
+154,25,Billancourt
+155,193,Marcel Sembat
+156,271,Porte de Saint-Cloud
+157,193,Marcel Sembat
+158,271,Porte de Saint-Cloud
+159,193,Marcel Sembat
+160,193,Marcel Sembat
+161,25,Billancourt
+162,25,Billancourt
+163,253,Pont de Sèvres
+164,25,Billancourt
+165,193,Marcel Sembat
+166,271,Porte de Saint-Cloud
+167,104,Exelmans
+168,199,Michel Ange Molitor
+169,198,Michel Ange Molitor
+170,52,Chardon Lagâche
+171,201,Mirabeau
+172,145,Javel
+173,373,Église d'Auteuil
+174,196,Michel Ange Auteuil
+175,259,Porte d'Auteuil
+176,36,"Boulogne, Jean Jaurès"
+177,37,"Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube"
+178,36,"Boulogne, Jean Jaurès"
+179,198,Michel Ange Molitor
+180,52,Chardon Lagâche
+181,201,Mirabeau
+182,145,Javel
+183,54,Charles Michels
+184,11,Avenue Émile Zola
+185,154,"La Motte Picquet, Grenelle"
+186,349,Ségur
+187,154,"La Motte Picquet, Grenelle"
+188,349,Ségur
+189,99,Duroc
+190,100,Duroc
+191,321,Saint-Francois Xavier
+192,359,Varenne
+193,137,Invalides
+194,138,Invalides
+195,138,Invalides
+196,137,Invalides
+197,51,"Champs Élysées, Clémenceau"
+198,202,Miromesnil
+199,326,Saint-Lazare
+200,168,Liège
+201,245,Place de Clichy
+202,168,Liège
+203,245,Place de Clichy
+204,246,Place de Clichy
+205,27,Blanche
+206,246,Place de Clichy
+207,302,Rome
+208,366,Villiers
+209,367,Villiers
+210,189,Malesherbes
+211,370,Wagram
+212,189,Malesherbes
+213,370,Wagram
+214,286,Péreire
+215,370,Wagram
+216,286,Péreire
+217,264,Porte de Champerret
+218,171,Louise Michel
+219,264,Porte de Champerret
+220,171,Louise Michel
+221,4,Anatole France
+222,251,"Pont de Levallois, Bécon"
+223,4,Anatole France
+224,171,Louise Michel
+225,264,Porte de Champerret
+226,171,Louise Michel
+227,4,Anatole France
+228,171,Louise Michel
+229,264,Porte de Champerret
+230,286,Péreire
+231,370,Wagram
+232,189,Malesherbes
+233,367,Villiers
+234,103,Europe
+235,103,Europe
+236,327,Saint-Lazare
+237,132,Havre Caumartin
+238,327,Saint-Lazare
+239,103,Europe
+240,367,Villiers
+241,366,Villiers
+242,204,Monceau
+243,85,Courcelles
+244,351,Ternes
+245,56,"Charles de Gaulle, Étoile"
+246,362,Victor Hugo
+247,56,"Charles de Gaulle, Étoile"
+248,55,"Charles de Gaulle, Étoile"
+249,127,George V
+250,55,"Charles de Gaulle, Étoile"
+251,6,Argentine
+252,258,Porte Maillot
+253,166,Les Sablons
+254,252,Pont de Neuilly
+255,102,Esplanade de la Défense
+256,252,Pont de Neuilly
+257,102,Esplanade de la Défense
+258,130,Grande Arche de la Défense
+259,102,Esplanade de la Défense
+260,252,Pont de Neuilly
+261,166,Les Sablons
+262,258,Porte Maillot
+263,166,Les Sablons
+264,258,Porte Maillot
+265,6,Argentine
+266,55,"Charles de Gaulle, Étoile"
+267,57,"Charles de Gaulle, Étoile"
+268,56,"Charles de Gaulle, Étoile"
+269,362,Victor Hugo
+270,256,Porte Dauphine
+271,362,Victor Hugo
+272,256,Porte Dauphine
+273,256,Porte Dauphine
+274,362,Victor Hugo
+275,256,Porte Dauphine
+276,362,Victor Hugo
+277,56,"Charles de Gaulle, Étoile"
+278,362,Victor Hugo
+279,256,Porte Dauphine
+280,362,Victor Hugo
+281,256,Porte Dauphine
+282,362,Victor Hugo
+283,56,"Charles de Gaulle, Étoile"
+284,57,"Charles de Gaulle, Étoile"
+285,150,Kléber
+286,30,Boissière
+287,354,Trocadéro
+288,230,Passy
+289,354,Trocadéro
+290,230,Passy
+291,26,Bir-Hakeim
+292,98,Dupleix
+293,155,"La Motte Picquet, Grenelle"
+294,156,"La Motte Picquet, Grenelle"
+295,371,École Militaire
+296,156,"La Motte Picquet, Grenelle"
+297,76,Commerce
+298,111,Félix Faure
+299,76,Commerce
+300,111,Félix Faure
+301,35,Boucicaut
+302,172,Lourmel
+303,240,Place Balard
+304,172,Lourmel
+305,35,Boucicaut
+306,111,Félix Faure
+307,76,Commerce
+308,156,"La Motte Picquet, Grenelle"
+309,371,École Militaire
+310,156,"La Motte Picquet, Grenelle"
+311,371,École Militaire
+312,158,La Tour-Maubourg
+313,138,Invalides
+314,137,Invalides
+315,51,"Champs Élysées, Clémenceau"
+316,137,Invalides
+317,138,Invalides
+318,79,Concorde
+319,79,Concorde
+320,78,Concorde
+321,175,Madeleine
+322,78,Concorde
+323,175,Madeleine
+324,176,Madeleine
+325,281,Pyramides
+326,282,Pyramides
+327,224,Opéra
+328,225,Opéra
+329,298,Richelieu Drouot
+330,225,Opéra
+331,223,Opéra
+332,289,Quatre Septembre
+333,38,Bourse
+334,336,Sentier
+335,336,Sentier
+336,38,Bourse
+337,336,Sentier
+338,309,Réaumur Sébastopol
+339,8,Arts et Métiers
+340,350,Temple
+341,8,Arts et Métiers
+342,309,Réaumur Sébastopol
+343,336,Sentier
+344,38,Bourse
+345,336,Sentier
+346,309,Réaumur Sébastopol
+347,309,Réaumur Sébastopol
+348,309,Réaumur Sébastopol
+349,336,Sentier
+350,309,Réaumur Sébastopol
+351,310,Réaumur Sébastopol
+352,375,Étienne Marcel
+353,310,Réaumur Sébastopol
+354,375,Étienne Marcel
+355,165,Les Halles
+356,70,Châtelet
+357,73,Cité
+358,70,Châtelet
+359,73,Cité
+360,330,Saint-Michel
+361,222,Odéon
+362,323,Saint-Germain-des-Prés
+363,334,Saint-Sulpice
+364,323,Saint-Germain-des-Prés
+365,334,Saint-Sulpice
+366,323,Saint-Germain-des-Prés
+367,222,Odéon
+368,323,Saint-Germain-des-Prés
+369,334,Saint-Sulpice
+370,333,Saint-Placide
+371,208,Montparnasse Bienvenue
+372,209,Montparnasse Bienvenue
+373,101,Edgar Quinet
+374,293,Raspail
+375,96,Denfert Rochereau
+376,293,Raspail
+377,96,Denfert Rochereau
+378,95,Denfert Rochereau
+379,210,Mouton-Duvernet
+380,3,Alésia
+381,262,Porte d'Orléans
+382,3,Alésia
+383,262,Porte d'Orléans
+384,3,Alésia
+385,210,Mouton-Duvernet
+386,3,Alésia
+387,262,Porte d'Orléans
+388,3,Alésia
+389,210,Mouton-Duvernet
+390,95,Denfert Rochereau
+391,292,Raspail
+392,293,Raspail
+393,96,Denfert Rochereau
+394,324,Saint-Jacques
+395,128,Glacière
+396,83,Corvisart
+397,243,Place d'Italie
+398,83,Corvisart
+399,243,Place d'Italie
+400,216,Nationale
+401,62,Chevaleret
+402,216,Nationale
+403,62,Chevaleret
+404,287,Quai de la Gare
+405,287,Quai de la Gare
+406,62,Chevaleret
+407,216,Nationale
+408,216,Nationale
+409,243,Place d'Italie
+410,244,Place d'Italie
+411,352,Tolbiac
+412,184,Maison Blanche
+413,260,Porte d'Italie
+414,266,Porte de Choisy
+415,261,Porte d'Ivry
+416,237,Pierre Curie
+417,179,Mairie d'Ivry
+418,237,Pierre Curie
+419,179,Mairie d'Ivry
+420,237,Pierre Curie
+421,261,Porte d'Ivry
+422,237,Pierre Curie
+423,261,Porte d'Ivry
+424,266,Porte de Choisy
+425,260,Porte d'Italie
+426,184,Maison Blanche
+427,352,Tolbiac
+428,184,Maison Blanche
+429,161,Le Kremlin-Bicêtre
+430,364,"Villejuif, Léo Lagrange"
+431,365,"Villejuif, P. Vaillant Couturier"
+432,363,"Villejuif, Louis Aragon"
+433,365,"Villejuif, P. Vaillant Couturier"
+434,364,"Villejuif, Léo Lagrange"
+435,161,Le Kremlin-Bicêtre
+436,184,Maison Blanche
+437,352,Tolbiac
+438,244,Place d'Italie
+439,242,Place d'Italie
+440,243,Place d'Italie
+441,83,Corvisart
+442,243,Place d'Italie
+443,242,Place d'Italie
+444,46,Campo-Formio
+445,329,Saint-Marcel
+446,118,Gare d'Austerlitz
+447,118,Gare d'Austerlitz
+448,288,Quai de la Rapée
+449,118,Gare d'Austerlitz
+450,288,Quai de la Rapée
+451,118,Gare d'Austerlitz
+452,329,Saint-Marcel
+453,46,Campo-Formio
+454,46,Campo-Formio
+455,329,Saint-Marcel
+456,46,Campo-Formio
+457,242,Place d'Italie
+458,244,Place d'Italie
+459,164,Les Gobelins
+460,49,Censier Daubenton
+461,164,Les Gobelins
+462,49,Censier Daubenton
+463,241,Place Monge
+464,149,Jussieu
+465,345,Sully Morland
+466,254,Pont-Marie
+467,71,Châtelet
+468,71,Châtelet
+469,70,Châtelet
+470,68,Châtelet
+471,67,Châtelet
+472,173,"Louvre, Rivoli"
+473,227,"Palais Royal, Musée du Louvre"
+474,356,Tuileries
+475,77,Concorde
+476,78,Concorde
+477,175,Madeleine
+478,78,Concorde
+479,175,Madeleine
+480,176,Madeleine
+481,281,Pyramides
+482,69,Châtelet
+483,71,Châtelet
+484,255,Pont-Neuf
+485,228,"Palais Royal, Musée du Louvre"
+486,282,Pyramides
+487,281,Pyramides
+488,281,Pyramides
+489,176,Madeleine
+490,177,Madeleine
+491,225,Opéra
+492,224,Opéra
+493,225,Opéra
+494,298,Richelieu Drouot
+495,299,Richelieu Drouot
+496,304,"Rue Montmartre, Grands Boulevards"
+497,303,"Rue Montmartre, Grands Boulevards"
+498,32,Bonne Nouvelle
+499,343,Strasbourg Saint-Denis
+500,343,Strasbourg Saint-Denis
+501,32,Bonne Nouvelle
+502,343,Strasbourg Saint-Denis
+503,314,République
+504,313,République
+505,140,Jacques Bonsergent
+506,313,République
+507,219,Oberkampf
+508,297,Richard Lenoir
+509,219,Oberkampf
+510,297,Richard Lenoir
+511,40,Bréguet-Sabin
+512,17,Bastille
+513,18,Bastille
+514,16,Bastille
+515,331,"Saint-Paul, Le Marais"
+516,135,Hôtel de Ville
+517,136,Hôtel de Ville
+518,135,Hôtel de Ville
+519,136,Hôtel de Ville
+520,290,Rambuteau
+521,7,Arts et Métiers
+522,311,République
+523,129,Goncourt
+524,20,Belleville
+525,283,Pyrénées
+526,146,Jourdain
+527,283,Pyrénées
+528,146,Jourdain
+529,146,Jourdain
+530,283,Pyrénées
+531,20,Belleville
+532,129,Goncourt
+533,20,Belleville
+534,21,Belleville
+535,75,Colonel Fabien
+536,142,Jaurès
+537,339,Stalingrad
+538,151,La Chapelle
+539,13,Barbès Rochechouart
+540,151,La Chapelle
+541,339,Stalingrad
+542,340,Stalingrad
+543,341,Stalingrad
+544,341,Stalingrad
+545,169,Louis Blanc
+546,341,Stalingrad
+547,300,Riquet
+548,87,Crimée
+549,82,Corentin-Cariou
+550,87,Crimée
+551,82,Corentin-Cariou
+552,277,Porte de la Villette
+553,10,"Aubervilliers-Pantin, Quatre Chemins"
+554,108,Fort d'Aubervilliers
+555,152,"La Courneuve, 8 Mai 1945"
+556,108,Fort d'Aubervilliers
+557,10,"Aubervilliers-Pantin, Quatre Chemins"
+558,277,Porte de la Villette
+559,82,Corentin-Cariou
+560,87,Crimée
+561,82,Corentin-Cariou
+562,87,Crimée
+563,300,Riquet
+564,87,Crimée
+565,82,Corentin-Cariou
+566,87,Crimée
+567,300,Riquet
+568,341,Stalingrad
+569,169,Louis Blanc
+570,170,Louis Blanc
+571,144,Jaurès
+572,31,Bolivar
+573,41,Buttes Chaumont
+574,41,Buttes Chaumont
+575,34,Botzaris
+576,248,Place des Fêtes
+577,247,Place des Fêtes
+578,357,Télégraphe
+579,247,Place des Fêtes
+580,248,Place des Fêtes
+581,280,Pré-Saint-Gervais
+582,92,Danube
+583,34,Botzaris
+584,41,Buttes Chaumont
+585,31,Bolivar
+586,41,Buttes Chaumont
+587,34,Botzaris
+588,41,Buttes Chaumont
+589,31,Bolivar
+590,144,Jaurès
+591,143,Jaurès
+592,143,Jaurès
+593,143,Jaurès
+594,160,Laumière
+595,226,Ourcq
+596,270,Porte de Pantin
+597,134,Hoche
+598,374,Église de Pantin
+599,29,"Bobigny-Pantin, Raymond Queneau"
+600,28,"Bobigny, Pablo Picasso"
+601,29,"Bobigny-Pantin, Raymond Queneau"
+602,374,Église de Pantin
+603,134,Hoche
+604,270,Porte de Pantin
+605,226,Ourcq
+606,160,Laumière
+607,143,Jaurès
+608,340,Stalingrad
+609,143,Jaurès
+610,340,Stalingrad
+611,339,Stalingrad
+612,341,Stalingrad
+613,169,Louis Blanc
+614,63,Château Landon
+615,63,Château Landon
+616,123,Gare de l'Est
+617,250,Poissonnière
+618,44,Cadet
+619,162,Le Peletier
+620,59,"Chaussée d'Antin, La Fayette"
+621,60,"Chaussée d'Antin, La Fayette"
+622,299,Richelieu Drouot
+623,60,"Chaussée d'Antin, La Fayette"
+624,133,Havre Caumartin
+625,132,Havre Caumartin
+626,223,Opéra
+627,289,Quatre Septembre
+628,223,Opéra
+629,132,Havre Caumartin
+630,327,Saint-Lazare
+631,326,Saint-Lazare
+632,168,Liège
+633,245,Place de Clichy
+634,246,Place de Clichy
+635,302,Rome
+636,246,Place de Clichy
+637,245,Place de Clichy
+638,168,Liège
+639,326,Saint-Lazare
+640,168,Liège
+641,245,Place de Clichy
+642,168,Liège
+643,245,Place de Clichy
+644,153,La Fourche
+645,131,Guy Môquet
+646,272,Porte de Saint-Ouen
+647,126,Garibaldi
+648,182,Mairie de Saint-Ouen
+649,48,Carrefour Pleyel
+650,318,Saint-Denis-Porte de Paris
+651,15,Basilique de Saint-Denis
+652,319,Saint-Denis-Université
+653,15,Basilique de Saint-Denis
+654,318,Saint-Denis-Porte de Paris
+655,48,Carrefour Pleyel
+656,182,Mairie de Saint-Ouen
+657,126,Garibaldi
+658,182,Mairie de Saint-Ouen
+659,126,Garibaldi
+660,272,Porte de Saint-Ouen
+661,131,Guy Môquet
+662,153,La Fourche
+663,39,Brochant
+664,267,Porte de Clichy
+665,180,Mairie de Clichy
+666,112,"Gabriel Péri, Asnières-Gennevilliers"
+667,180,Mairie de Clichy
+668,267,Porte de Clichy
+669,180,Mairie de Clichy
+670,112,"Gabriel Péri, Asnières-Gennevilliers"
+671,180,Mairie de Clichy
+672,267,Porte de Clichy
+673,39,Brochant
+674,153,La Fourche
+675,245,Place de Clichy
+676,246,Place de Clichy
+677,27,Blanche
+678,239,Pigalle
+679,5,Anvers
+680,239,Pigalle
+681,5,Anvers
+682,5,Anvers
+683,239,Pigalle
+684,238,Pigalle
+685,0,Abbesses
+686,159,Lamarck Caulaincourt
+687,147,Jules Joffrin
+688,191,Marcadet Poissonniers
+689,194,Marx Dormoy
+690,276,Porte de la Chapelle
+691,194,Marx Dormoy
+692,191,Marcadet Poissonniers
+693,147,Jules Joffrin
+694,191,Marcadet Poissonniers
+695,147,Jules Joffrin
+696,159,Lamarck Caulaincourt
+697,0,Abbesses
+698,238,Pigalle
+699,322,Saint-Georges
+700,322,Saint-Georges
+701,217,Notre Dame de Lorette
+702,322,Saint-Georges
+703,217,Notre Dame de Lorette
+704,353,Trinité d'Estienne d'Orves
+705,217,Notre Dame de Lorette
+706,322,Saint-Georges
+707,217,Notre Dame de Lorette
+708,322,Saint-Georges
+709,238,Pigalle
+710,322,Saint-Georges
+711,238,Pigalle
+712,0,Abbesses
+713,159,Lamarck Caulaincourt
+714,147,Jules Joffrin
+715,191,Marcadet Poissonniers
+716,192,Marcadet Poissonniers
+717,337,Simplon
+718,268,Porte de Clignancourt
+719,337,Simplon
+720,268,Porte de Clignancourt
+721,337,Simplon
+722,192,Marcadet Poissonniers
+723,337,Simplon
+724,192,Marcadet Poissonniers
+725,64,Château Rouge
+726,14,Barbès Rochechouart
+727,14,Barbès Rochechouart
+728,124,Gare du Nord
+729,121,Gare de l'Est
+730,65,Château d'Eau
+731,342,Strasbourg Saint-Denis
+732,310,Réaumur Sébastopol
+733,342,Strasbourg Saint-Denis
+734,343,Strasbourg Saint-Denis
+735,314,République
+736,315,République
+737,220,Oberkampf
+738,316,Saint-Ambroise
+739,220,Oberkampf
+740,316,Saint-Ambroise
+741,369,Voltaire
+742,58,Charonne
+743,307,Rue des Boulets
+744,58,Charonne
+745,307,Rue des Boulets
+746,215,Nation
+747,42,Buzenval
+748,190,Maraîchers
+749,269,Porte de Montreuil
+750,190,Maraîchers
+751,269,Porte de Montreuil
+752,301,Robespierre
+753,88,Croix de Chavaux
+754,181,Mairie de Montreuil
+755,88,Croix de Chavaux
+756,181,Mairie de Montreuil
+757,88,Croix de Chavaux
+758,301,Robespierre
+759,269,Porte de Montreuil
+760,190,Maraîchers
+761,42,Buzenval
+762,215,Nation
+763,214,Nation
+764,212,Nation
+765,295,Reuilly Diderot
+766,119,Gare de Lyon
+767,295,Reuilly Diderot
+768,212,Nation
+769,275,Porte de Vincennes
+770,328,"Saint-Mandé, Tourelle"
+771,43,Bérault
+772,66,Château de Vincennes
+773,43,Bérault
+774,328,"Saint-Mandé, Tourelle"
+775,275,Porte de Vincennes
+776,328,"Saint-Mandé, Tourelle"
+777,275,Porte de Vincennes
+778,212,Nation
+779,214,Nation
+780,236,Picpus
+781,19,Bel Air
+782,93,Daumesnil
+783,19,Bel Air
+784,93,Daumesnil
+785,19,Bel Air
+786,93,Daumesnil
+787,19,Bel Air
+788,93,Daumesnil
+789,97,Dugommier
+790,23,Bercy
+791,22,Bercy
+792,84,Cour Saint-Émilion
+793,24,Bibliothèque François Mitterand
+794,84,Cour Saint-Émilion
+795,22,Bercy
+796,120,Gare de Lyon
+797,22,Bercy
+798,84,Cour Saint-Émilion
+799,22,Bercy
+800,23,Bercy
+801,97,Dugommier
+802,93,Daumesnil
+803,94,Daumesnil
+804,200,Michel Bizot
+805,257,Porte Dorée
+806,265,Porte de Charenton
+807,167,Liberté
+808,53,Charenton-Écoles
+809,372,École Vétérinaire de Maisons-Alfort
+810,186,"Maisons-Alfort, Stade"
+811,372,École Vétérinaire de Maisons-Alfort
+812,186,"Maisons-Alfort, Stade"
+813,185,Maisons-Alfort les Juilliottes
+814,186,"Maisons-Alfort, Stade"
+815,372,École Vétérinaire de Maisons-Alfort
+816,186,"Maisons-Alfort, Stade"
+817,372,École Vétérinaire de Maisons-Alfort
+818,186,"Maisons-Alfort, Stade"
+819,185,Maisons-Alfort les Juilliottes
+820,91,"Créteil-l'Echat, Hôpital Henri Mondor"
+821,90,Créteil-Université
+822,89,Créteil-Préfecture
+823,90,Créteil-Université
+824,89,Créteil-Préfecture
+825,90,Créteil-Université
+826,89,Créteil-Préfecture
+827,90,Créteil-Université
+828,89,Créteil-Préfecture
+829,90,Créteil-Université
+830,91,"Créteil-l'Echat, Hôpital Henri Mondor"
+831,185,Maisons-Alfort les Juilliottes
+832,91,"Créteil-l'Echat, Hôpital Henri Mondor"
+833,185,Maisons-Alfort les Juilliottes
+834,186,"Maisons-Alfort, Stade"
+835,185,Maisons-Alfort les Juilliottes
+836,186,"Maisons-Alfort, Stade"
+837,372,École Vétérinaire de Maisons-Alfort
+838,53,Charenton-Écoles
+839,167,Liberté
+840,53,Charenton-Écoles
+841,372,École Vétérinaire de Maisons-Alfort
+842,186,"Maisons-Alfort, Stade"
+843,372,École Vétérinaire de Maisons-Alfort
+844,53,Charenton-Écoles
+845,167,Liberté
+846,265,Porte de Charenton
+847,257,Porte Dorée
+848,200,Michel Bizot
+849,94,Daumesnil
+850,205,Montgallet
+851,94,Daumesnil
+852,205,Montgallet
+853,205,Montgallet
+854,296,Reuilly Diderot
+855,205,Montgallet
+856,296,Reuilly Diderot
+857,295,Reuilly Diderot
+858,212,Nation
+859,213,Nation
+860,12,Avron
+861,213,Nation
+862,12,Avron
+863,1,Alexandre Dumas
+864,12,Avron
+865,12,Avron
+866,1,Alexandre Dumas
+867,12,Avron
+868,1,Alexandre Dumas
+869,235,Philippe-Auguste
+870,1,Alexandre Dumas
+871,235,Philippe-Auguste
+872,284,Père Lachaise
+873,235,Philippe-Auguste
+874,284,Père Lachaise
+875,211,Ménilmontant
+876,86,Couronnes
+877,211,Ménilmontant
+878,86,Couronnes
+879,211,Ménilmontant
+880,284,Père Lachaise
+881,211,Ménilmontant
+882,284,Père Lachaise
+883,211,Ménilmontant
+884,284,Père Lachaise
+885,235,Philippe-Auguste
+886,284,Père Lachaise
+887,285,Père Lachaise
+888,115,Gambetta
+889,115,Gambetta
+890,263,Porte de Bagnolet
+891,114,Galliéni
+892,263,Porte de Bagnolet
+893,115,Gambetta
+894,116,Gambetta
+895,233,Pelleport
+896,320,Saint-Fargeau
+897,279,Porte des Lilas
+898,320,Saint-Fargeau
+899,279,Porte des Lilas
+900,278,Porte des Lilas
+901,183,Mairie des Lilas
+902,278,Porte des Lilas
+903,183,Mairie des Lilas
+904,278,Porte des Lilas
+905,279,Porte des Lilas
+906,320,Saint-Fargeau
+907,320,Saint-Fargeau
+908,279,Porte des Lilas
+909,320,Saint-Fargeau
+910,233,Pelleport
+911,116,Gambetta
+912,233,Pelleport
+913,320,Saint-Fargeau
+914,279,Porte des Lilas
+915,320,Saint-Fargeau
+916,233,Pelleport
+917,116,Gambetta
+918,115,Gambetta
+919,285,Père Lachaise
+920,285,Père Lachaise
+921,115,Gambetta
+922,285,Père Lachaise
+923,115,Gambetta
+924,263,Porte de Bagnolet
+925,115,Gambetta
+926,285,Père Lachaise
+927,305,Rue Saint-Maur
+928,285,Père Lachaise
+929,305,Rue Saint-Maur
+930,229,Parmentier
+931,305,Rue Saint-Maur
+932,285,Père Lachaise
+933,305,Rue Saint-Maur
+934,229,Parmentier
+935,305,Rue Saint-Maur
+936,285,Père Lachaise
+937,115,Gambetta
+938,285,Père Lachaise
+939,305,Rue Saint-Maur
+940,229,Parmentier
+941,312,République
+942,350,Temple
+943,312,République
+944,314,République
+945,107,Filles du Calvaire
+946,107,Filles du Calvaire
+947,335,Saint-Sébastien-Froissart
+948,107,Filles du Calvaire
+949,335,Saint-Sébastien-Froissart
+950,61,Chemin Vert
+951,18,Bastille
+952,61,Chemin Vert
+953,18,Bastille
+954,163,Ledru Rollin
+955,105,Faidherbe-Chaligny
+956,163,Ledru Rollin
+957,105,Faidherbe-Chaligny
+958,296,Reuilly Diderot
+959,105,Faidherbe-Chaligny
+960,163,Ledru Rollin
+961,18,Bastille
+962,61,Chemin Vert
+963,18,Bastille
+964,163,Ledru Rollin
+965,105,Faidherbe-Chaligny
+966,296,Reuilly Diderot
+967,205,Montgallet
+968,94,Daumesnil
+969,200,Michel Bizot
+970,94,Daumesnil
+971,205,Montgallet
+972,296,Reuilly Diderot
+973,105,Faidherbe-Chaligny
+974,296,Reuilly Diderot
+975,205,Montgallet
+976,94,Daumesnil
+977,205,Montgallet
+978,94,Daumesnil
+979,205,Montgallet
+980,296,Reuilly Diderot
+981,296,Reuilly Diderot
+982,105,Faidherbe-Chaligny
+983,296,Reuilly Diderot
+984,205,Montgallet
+985,296,Reuilly Diderot
+986,105,Faidherbe-Chaligny
+987,163,Ledru Rollin

@@ -1,0 +1,376 @@
+0000 Abbesses
+0001 Alexandre Dumas
+0002 Alma Marceau
+0003 Alésia
+0004 Anatole France
+0005 Anvers
+0006 Argentine
+0007 Arts et Métiers
+0008 Arts et Métiers
+0009 Assemblée Nationale
+0010 Aubervilliers-Pantin, Quatre Chemins
+0011 Avenue Émile Zola
+0012 Avron
+0013 Barbès Rochechouart
+0014 Barbès Rochechouart
+0015 Basilique de Saint-Denis
+0016 Bastille
+0017 Bastille
+0018 Bastille
+0019 Bel Air
+0020 Belleville
+0021 Belleville
+0022 Bercy
+0023 Bercy
+0024 Bibliothèque François Mitterand
+0025 Billancourt
+0026 Bir-Hakeim
+0027 Blanche
+0028 Bobigny, Pablo Picasso
+0029 Bobigny-Pantin, Raymond Queneau
+0030 Boissière
+0031 Bolivar
+0032 Bonne Nouvelle
+0033 Bonne Nouvelle
+0034 Botzaris
+0035 Boucicaut
+0036 Boulogne, Jean Jaurès
+0037 Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube
+0038 Bourse
+0039 Brochant
+0040 Bréguet-Sabin
+0041 Buttes Chaumont
+0042 Buzenval
+0043 Bérault
+0044 Cadet
+0045 Cambronne
+0046 Campo-Formio
+0047 Cardinal Lemoine
+0048 Carrefour Pleyel
+0049 Censier Daubenton
+0050 Champs Élysées, Clémenceau
+0051 Champs Élysées, Clémenceau
+0052 Chardon Lagâche
+0053 Charenton-Écoles
+0054 Charles Michels
+0055 Charles de Gaulle, Étoile
+0056 Charles de Gaulle, Étoile
+0057 Charles de Gaulle, Étoile
+0058 Charonne
+0059 Chaussée d'Antin, La Fayette
+0060 Chaussée d'Antin, La Fayette
+0061 Chemin Vert
+0062 Chevaleret
+0063 Château Landon
+0064 Château Rouge
+0065 Château d'Eau
+0066 Château de Vincennes
+0067 Châtelet
+0068 Châtelet
+0069 Châtelet
+0070 Châtelet
+0071 Châtelet
+0072 Châtillon-Montrouge
+0073 Cité
+0074 Cluny, La Sorbonne
+0075 Colonel Fabien
+0076 Commerce
+0077 Concorde
+0078 Concorde
+0079 Concorde
+0080 Convention
+0081 Corentin Celton
+0082 Corentin-Cariou
+0083 Corvisart
+0084 Cour Saint-Émilion
+0085 Courcelles
+0086 Couronnes
+0087 Crimée
+0088 Croix de Chavaux
+0089 Créteil-Préfecture
+0090 Créteil-Université
+0091 Créteil-l'Echat, Hôpital Henri Mondor
+0092 Danube
+0093 Daumesnil
+0094 Daumesnil
+0095 Denfert Rochereau
+0096 Denfert Rochereau
+0097 Dugommier
+0098 Dupleix
+0099 Duroc
+0100 Duroc
+0101 Edgar Quinet
+0102 Esplanade de la Défense
+0103 Europe
+0104 Exelmans
+0105 Faidherbe-Chaligny
+0106 Falguière
+0107 Filles du Calvaire
+0108 Fort d'Aubervilliers
+0109 Franklin D. Roosevelt
+0110 Franklin D. Roosevelt
+0111 Félix Faure
+0112 Gabriel Péri, Asnières-Gennevilliers
+0113 Gaité
+0114 Galliéni
+0115 Gambetta
+0116 Gambetta
+0117 Gare d'Austerlitz
+0118 Gare d'Austerlitz
+0119 Gare de Lyon
+0120 Gare de Lyon
+0121 Gare de l'Est
+0122 Gare de l'Est
+0123 Gare de l'Est
+0124 Gare du Nord
+0125 Gare du Nord
+0126 Garibaldi
+0127 George V
+0128 Glacière
+0129 Goncourt
+0130 Grande Arche de la Défense
+0131 Guy Môquet
+0132 Havre Caumartin
+0133 Havre Caumartin
+0134 Hoche
+0135 Hôtel de Ville
+0136 Hôtel de Ville
+0137 Invalides
+0138 Invalides
+0139 Iéna
+0140 Jacques Bonsergent
+0141 Jasmin
+0142 Jaurès
+0143 Jaurès
+0144 Jaurès
+0145 Javel
+0146 Jourdain
+0147 Jules Joffrin
+0148 Jussieu
+0149 Jussieu
+0150 Kléber
+0151 La Chapelle
+0152 La Courneuve, 8 Mai 1945
+0153 La Fourche
+0154 La Motte Picquet, Grenelle
+0155 La Motte Picquet, Grenelle
+0156 La Motte Picquet, Grenelle
+0157 La Muette
+0158 La Tour-Maubourg
+0159 Lamarck Caulaincourt
+0160 Laumière
+0161 Le Kremlin-Bicêtre
+0162 Le Peletier
+0163 Ledru Rollin
+0164 Les Gobelins
+0165 Les Halles
+0166 Les Sablons
+0167 Liberté
+0168 Liège
+0169 Louis Blanc
+0170 Louis Blanc
+0171 Louise Michel
+0172 Lourmel
+0173 Louvre, Rivoli
+0174 Mabillon
+0175 Madeleine
+0176 Madeleine
+0177 Madeleine
+0178 Mairie d'Issy
+0179 Mairie d'Ivry
+0180 Mairie de Clichy
+0181 Mairie de Montreuil
+0182 Mairie de Saint-Ouen
+0183 Mairie des Lilas
+0184 Maison Blanche
+0185 Maisons-Alfort les Juilliottes
+0186 Maisons-Alfort, Stade
+0187 Malakoff-Plateau de Vanves
+0188 Malakoff-Rue Étienne Dolet
+0189 Malesherbes
+0190 Maraîchers
+0191 Marcadet Poissonniers
+0192 Marcadet Poissonniers
+0193 Marcel Sembat
+0194 Marx Dormoy
+0195 Maubert Mutualité
+0196 Michel Ange Auteuil
+0197 Michel Ange Auteuil
+0198 Michel Ange Molitor
+0199 Michel Ange Molitor
+0200 Michel Bizot
+0201 Mirabeau
+0202 Miromesnil
+0203 Miromesnil
+0204 Monceau
+0205 Montgallet
+0206 Montparnasse Bienvenue
+0207 Montparnasse Bienvenue
+0208 Montparnasse Bienvenue
+0209 Montparnasse Bienvenue
+0210 Mouton-Duvernet
+0211 Ménilmontant
+0212 Nation
+0213 Nation
+0214 Nation
+0215 Nation
+0216 Nationale
+0217 Notre Dame de Lorette
+0218 Notre-Dame-des-Champs
+0219 Oberkampf
+0220 Oberkampf
+0221 Odéon
+0222 Odéon
+0223 Opéra
+0224 Opéra
+0225 Opéra
+0226 Ourcq
+0227 Palais Royal, Musée du Louvre
+0228 Palais Royal, Musée du Louvre
+0229 Parmentier
+0230 Passy
+0231 Pasteur
+0232 Pasteur
+0233 Pelleport
+0234 Pernety
+0235 Philippe-Auguste
+0236 Picpus
+0237 Pierre Curie
+0238 Pigalle
+0239 Pigalle
+0240 Place Balard
+0241 Place Monge
+0242 Place d'Italie
+0243 Place d'Italie
+0244 Place d'Italie
+0245 Place de Clichy
+0246 Place de Clichy
+0247 Place des Fêtes
+0248 Place des Fêtes
+0249 Plaisance
+0250 Poissonnière
+0251 Pont de Levallois, Bécon
+0252 Pont de Neuilly
+0253 Pont de Sèvres
+0254 Pont-Marie
+0255 Pont-Neuf
+0256 Porte Dauphine
+0257 Porte Dorée
+0258 Porte Maillot
+0259 Porte d'Auteuil
+0260 Porte d'Italie
+0261 Porte d'Ivry
+0262 Porte d'Orléans
+0263 Porte de Bagnolet
+0264 Porte de Champerret
+0265 Porte de Charenton
+0266 Porte de Choisy
+0267 Porte de Clichy
+0268 Porte de Clignancourt
+0269 Porte de Montreuil
+0270 Porte de Pantin
+0271 Porte de Saint-Cloud
+0272 Porte de Saint-Ouen
+0273 Porte de Vanves
+0274 Porte de Versailles
+0275 Porte de Vincennes
+0276 Porte de la Chapelle
+0277 Porte de la Villette
+0278 Porte des Lilas
+0279 Porte des Lilas
+0280 Pré-Saint-Gervais
+0281 Pyramides
+0282 Pyramides
+0283 Pyrénées
+0284 Père Lachaise
+0285 Père Lachaise
+0286 Péreire
+0287 Quai de la Gare
+0288 Quai de la Rapée
+0289 Quatre Septembre
+0290 Rambuteau
+0291 Ranelagh
+0292 Raspail
+0293 Raspail
+0294 Rennes
+0295 Reuilly Diderot
+0296 Reuilly Diderot
+0297 Richard Lenoir
+0298 Richelieu Drouot
+0299 Richelieu Drouot
+0300 Riquet
+0301 Robespierre
+0302 Rome
+0303 Rue Montmartre, Grands Boulevards
+0304 Rue Montmartre, Grands Boulevards
+0305 Rue Saint-Maur
+0306 Rue de la Pompe
+0307 Rue des Boulets
+0308 Rue du Bac
+0309 Réaumur Sébastopol
+0310 Réaumur Sébastopol
+0311 République
+0312 République
+0313 République
+0314 République
+0315 République
+0316 Saint-Ambroise
+0317 Saint-Augustin
+0318 Saint-Denis-Porte de Paris
+0319 Saint-Denis-Université
+0320 Saint-Fargeau
+0321 Saint-Francois Xavier
+0322 Saint-Georges
+0323 Saint-Germain-des-Prés
+0324 Saint-Jacques
+0325 Saint-Lazare
+0326 Saint-Lazare
+0327 Saint-Lazare
+0328 Saint-Mandé, Tourelle
+0329 Saint-Marcel
+0330 Saint-Michel
+0331 Saint-Paul, Le Marais
+0332 Saint-Philippe du Roule
+0333 Saint-Placide
+0334 Saint-Sulpice
+0335 Saint-Sébastien-Froissart
+0336 Sentier
+0337 Simplon
+0338 Solférino
+0339 Stalingrad
+0340 Stalingrad
+0341 Stalingrad
+0342 Strasbourg Saint-Denis
+0343 Strasbourg Saint-Denis
+0344 Strasbourg Saint-Denis
+0345 Sully Morland
+0346 Sèvres Babylone
+0347 Sèvres Babylone
+0348 Sèvres Lecourbe
+0349 Ségur
+0350 Temple
+0351 Ternes
+0352 Tolbiac
+0353 Trinité d'Estienne d'Orves
+0354 Trocadéro
+0355 Trocadéro
+0356 Tuileries
+0357 Télégraphe
+0358 Vaneau
+0359 Varenne
+0360 Vaugirard
+0361 Vavin
+0362 Victor Hugo
+0363 Villejuif, Louis Aragon
+0364 Villejuif, Léo Lagrange
+0365 Villejuif, P. Vaillant Couturier
+0366 Villiers
+0367 Villiers
+0368 Volontaires
+0369 Voltaire
+0370 Wagram
+0371 École Militaire
+0372 École Vétérinaire de Maisons-Alfort
+0373 Église d'Auteuil
+0374 Église de Pantin
+0375 Étienne Marcel
