@@ -427,6 +427,7 @@ class GeneticAlgorithm():
             new_pop_size = int(trunc_proportion*len(self.population))
             self.population = self.population[:new_pop_size]     
         elif kind == 'tournament':
+            random.shuffle(self.population)
             tournament = [self.population[i:i+tourn_size] for i in range(0, len(self.population), tourn_size)]
             self.population = []
             for sub_pop in tournament:

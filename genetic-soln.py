@@ -24,7 +24,7 @@ if __name__ == '__main__':
         t0 = time.time()
         gen_alg.selection(kind='tournament', tourn_size=4, tourn_prob=0.5)
         gen_alg.crossover(end_pop_size=100)
-        gen_alg.mutation(m_prob=0.1, mut_path_time=720)
+        gen_alg.mutation(m_prob=0.1, mut_path_time=1440)
 
         # Update the champion
         gen_alg.pick_champion()
