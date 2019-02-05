@@ -261,10 +261,11 @@ class Individual():
         return (choice_edge.index_j, choice_edge.distance)
 
 
-    def bayesian_choice(self):
+    def probabilistic_choice(self, criteria):
         '''
-        Chooses neighbor based on Bayesian probability, selecting neighbor based
-        on inverse of distance and inverse of visits relative to other neighbors.
+        Parameters: criteria -> 'dist', 'visits', or 'both', 
+        Chooses neighbor probabilistically, selecting neighbor based on inverse 
+        of distance and/or inverse of visits relative to other neighbors.
         Returns tuple of (chosen neighbor index, edge distance)
         '''
         current_idx = self.path[-1]
@@ -286,7 +287,15 @@ class Individual():
             visits_prob = (1 / (self.graph[neighbor_idx].visits + 1)) / visits_denom
 
             choice_prob = (dist_prob + visits_prob) / 2
-            prob_list.append(choice_prob)
+
+            if criteria == 'dist':
+                prob_list.append(dist_prob)
+            elif criteria == 'visits':
+                prob_list.append(visits_prob)
+            elif criteria == 'both':
+                prob_list.append(choice_prob)
+            else:
+                raise Exception(f'Invalid parameter for "criteria": {criteria}')
 
         # Select neighbor based on these probabilities.
         rand = np.random.random()
@@ -300,14 +309,14 @@ class Individual():
     def explore(self, max_time, choice):
         '''
         Parameters: max_time -> Int
-                    choice -> String, 'bayesian' or 'random'
+                    choice -> String, 'probabilistic' or 'random'
         Lets individual travel along graph, choosing it's path depending on the
         choice parameter. Continues until max_time is reached.
         '''
         t = 0
         while (t < max_time) and (self.fraction_visited() < 1):
-            if choice == 'bayesian':
-                chosen_edge = self.bayesian_choice()
+            if choice == 'probabilistic':
+                chosen_edge = self.probabilistic_choice(criteria='visits')
             elif choice == 'random':
                 chosen_edge = self.random_choice()
             else:
@@ -372,9 +381,12 @@ class GeneticAlgorithm():
         '''
         
         self.population = [Individual(graph=self.graph) for i in range(pop_size)]
+        i = 1
         for indiv in self.population:
             indiv.set_start(v=-1)
-            indiv.explore(max_time=max_time, choice='bayesian')
+            indiv.explore(max_time=max_time, choice='probabilistic')
+            print(f'Individual {i}/{pop_size} created in initial population.')
+            i += 1
         self.pick_champion()
 
 
@@ -451,13 +463,18 @@ class GeneticAlgorithm():
             while parent_a == parent_b:
                 parent_b = random.choice(self.population)
 
-            while True:
+            attempts = 0
+            while attempts < 5:
                 try:
                     crossover_point = random.choice(parent_a.path)
                     co_idx_a = parent_a.path.index(crossover_point)
                     co_idx_b = parent_b.path.index(crossover_point)
                 except ValueError:
+                    attempts += 1
                     continue
+                break
+
+            if attempts == 5:
                 break
 
             child.path = parent_a.path[:co_idx_a] + parent_b.path[co_idx_b:]
@@ -491,7 +508,7 @@ class GeneticAlgorithm():
                         try:
                             mut_point = random.choice(indiv.path)
                             mut.set_start(mut_point)
-                            mut.explore(max_time=mut_path_time, choice='bayesian')
+                            mut.explore(max_time=mut_path_time, choice='probabilistic')
                             end_point = mut.path[-1]
 
                             start_idx = indiv.path.index(mut_point)
@@ -499,6 +516,9 @@ class GeneticAlgorithm():
                         except ValueError:
                             continue
                         break
+
+                    if start_idx > end_idx:
+                        start_idx, end_idx = end_idx, start_idx
 
                     first_path_splice = indiv.path[:start_idx]
                     mutated_path = mut.path
